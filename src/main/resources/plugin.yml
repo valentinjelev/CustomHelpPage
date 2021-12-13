@@ -1,0 +1,8 @@
+name: CustomHelpPage
+version: '${project.version}'
+main: me.codedcrown.customhelppage.CustomHelpPage
+api-version: 1.18
+authors: [ ValentinZhelev ]
+description: A basic plugin for custom /help command.
+commands:
+  help:
