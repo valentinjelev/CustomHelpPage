@@ -6,4 +6,4 @@ A basic plugin for custom /help command.
 ![alt text](https://cdn.discordapp.com/attachments/496237265245437982/919884157377708032/unknown.png)
 
 ## The plugin does not currently have a configurable file.
-## The plugin is made for BunnyCraft.
+## Made for BunnyCraft.
