@@ -7,4 +7,4 @@ A Minecraft basic plugin for custom /help command.
 
 # Permission - help.use
 
-### This plugin is made for the Bulgarian server BunnyCraft!
+### This plugin is made for the Bulgarian server BunnyCraft!.
